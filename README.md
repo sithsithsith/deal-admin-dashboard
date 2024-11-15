@@ -1,1 +1,1 @@
-# Admin Dashboard for managing using within deal system
+# Admin Dashboard for managing users within deal system
